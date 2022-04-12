@@ -2,5 +2,8 @@
     "cSpell.words": [
         "gatsby",
         "rcruz"
-    ]
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
 }
