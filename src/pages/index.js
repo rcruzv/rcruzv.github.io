@@ -7,8 +7,8 @@ const IndexPage = () => {
     <Layout pageTitle="Home">
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <StaticImage
-        alt="Imagem gerada aleatoriamente"
-        src="https://picsum.photos/800/600"
+        alt="Colored wolf"
+        src="../images/800x600.jpg"
       />
     </Layout>
   )
