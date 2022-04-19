@@ -16,5 +16,14 @@ module.exports = {
     },
     "gatsby-plugin-mdx",
     "gatsby-transformer-sharp",
+    {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /images/
+        }
+      }
+    },
+    "gatsby-plugin-stylus",
   ],
 }
